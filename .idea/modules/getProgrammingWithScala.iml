@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id="root [file:/Users/himanshu/Desktop/Kafka%20related%20commands/getProgrammingWithScala/]" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
+<module external.linked.project.id="root [file:/Users/himanshu/Desktop/Get%20programming%20with%20Scala/getProgrammingWithScala/]" external.linked.project.path="$MODULE_DIR$/../.." external.root.project.path="$MODULE_DIR$/../.." external.system.id="SBT" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
-    <output url="file://$MODULE_DIR$/../../../../Get programming with Scala/getProgrammingWithScala/target/scala-2.13/classes" />
-    <output-test url="file://$MODULE_DIR$/../../../../Get programming with Scala/getProgrammingWithScala/target/scala-2.13/test-classes" />
+    <output url="file://$MODULE_DIR$/../../target/scala-2.13/classes" />
+    <output-test url="file://$MODULE_DIR$/../../target/scala-2.13/test-classes" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../../../Get programming with Scala/getProgrammingWithScala">
-      <sourceFolder url="file://$MODULE_DIR$/../../../../Get programming with Scala/getProgrammingWithScala/src/main/scala" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../../../Get programming with Scala/getProgrammingWithScala/src/test/scala" isTestSource="true" />
-      <excludeFolder url="file://$MODULE_DIR$/../../../../Get programming with Scala/getProgrammingWithScala/target" />
-      <excludeFolder url="file://$MODULE_DIR$/../../../../Get programming with Scala/getProgrammingWithScala/project/target" />
+    <content url="file://$MODULE_DIR$/../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../src/main/scala" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../src/test/scala" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
