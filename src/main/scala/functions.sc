@@ -9,3 +9,13 @@ def pow (x:Int , y:Int):Int = {
   }
 
 pow(3,2)
+
+
+//Function syntax
+def myFunc(x:Int, y:String)={
+  println(x)
+  println(y)
+}
+
+myFunc(5,"Hi")
+
