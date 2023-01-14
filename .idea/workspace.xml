@@ -4,9 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="525fe1aa-d8d2-4798-bfc5-9e98b311aedf" name="Changes" comment="24/11/2022 Started learning Scala.">
+    <list default="true" id="525fe1aa-d8d2-4798-bfc5-9e98b311aedf" name="Changes" comment="Completed the revision of basics of scala.">
+      <change afterPath="$PROJECT_DIR$/src/main/scala/my/example/io/MyExample.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/practiceFile.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/practiceFile.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Circle.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Imports.sc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/MyExample.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Square.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/TestA.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/TestB.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/import export.sc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/Imports.sc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/MyExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/VendingMachine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/import export.sc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/my/areas/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/my/areas/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/my/quick/check/TestA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/my/quick/check/TestB.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,15 +80,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/himanshu/Downloads/getProgrammingWithScala/src/main/scala",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/scala" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$USER_HOME$/Get programming with Scala" />
     </key>
@@ -160,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672906941680</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Completed the revision of basics of scala.">
+      <created>1672946241896</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1672946241896</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -176,6 +202,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="24/11/2022 Started learning Scala." />
-    <option name="LAST_COMMIT_MESSAGE" value="24/11/2022 Started learning Scala." />
+    <MESSAGE value="Completed the revision of basics of scala." />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed the revision of basics of scala." />
   </component>
 </project>
