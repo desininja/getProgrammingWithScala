@@ -4,24 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="525fe1aa-d8d2-4798-bfc5-9e98b311aedf" name="Changes" comment="Completed the revision of basics of scala.">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/my/example/io/MyExample.scala" afterDir="false" />
+    <list default="true" id="525fe1aa-d8d2-4798-bfc5-9e98b311aedf" name="Changes" comment="Learned how to create and import packages.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/Circle.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/Imports.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/MyExample.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/Square.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/TestA.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/TestB.scala" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/scala/import export.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/Imports.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/MyExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/VendingMachine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/import export.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/my/areas/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/my/areas/Square.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/my/quick/check/TestA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/my/quick/check/TestB.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -186,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672946241896</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Learned how to create and import packages.">
+      <created>1673664663605</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1673664663605</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -203,6 +194,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="24/11/2022 Started learning Scala." />
     <MESSAGE value="Completed the revision of basics of scala." />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed the revision of basics of scala." />
+    <MESSAGE value="Learned how to create and import packages." />
+    <option name="LAST_COMMIT_MESSAGE" value="Learned how to create and import packages." />
   </component>
 </project>
