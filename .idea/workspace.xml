@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="525fe1aa-d8d2-4798-bfc5-9e98b311aedf" name="Changes" comment="24/11/2022 Started learning Scala.">
-      <change beforePath="$PROJECT_DIR$/../../Get programming with Scala/getProgrammingWithScala/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Get programming with Scala/getProgrammingWithScala/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="525fe1aa-d8d2-4798-bfc5-9e98b311aedf" name="Changes" comment="Learned how to create and import packages.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +23,23 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="getProgrammingWithScala" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -31,7 +48,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../Get programming with Scala/getProgrammingWithScala" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -49,12 +66,22 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/himanshu/Downloads/getProgrammingWithScala/src/main/scala",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/scala" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/../../Get programming with Scala" />
+      <recent name="$USER_HOME$/Get programming with Scala" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
     </key>
   </component>
   <component name="RunManager">
@@ -94,7 +121,63 @@
       <option name="project" value="LOCAL" />
       <updated>1669238961460</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="24/11/2022 Started learning Scala.">
+      <created>1669782037315</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669782037315</updated>
+    </task>
+    <task id="LOCAL-00003" summary="24/11/2022 Started learning Scala.">
+      <created>1670297803407</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670297803407</updated>
+    </task>
+    <task id="LOCAL-00004" summary="24/11/2022 Started learning Scala.">
+      <created>1670506081734</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670506081734</updated>
+    </task>
+    <task id="LOCAL-00005" summary="24/11/2022 Started learning Scala.">
+      <created>1670506253831</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670506253831</updated>
+    </task>
+    <task id="LOCAL-00006" summary="24/11/2022 Started learning Scala.">
+      <created>1672906902578</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1672906902578</updated>
+    </task>
+    <task id="LOCAL-00007" summary="24/11/2022 Started learning Scala.">
+      <created>1672906941680</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1672906941680</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Completed the revision of basics of scala.">
+      <created>1672946241896</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1672946241896</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Learned how to create and import packages.">
+      <created>1673664663605</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1673664663605</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,6 +193,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="24/11/2022 Started learning Scala." />
-    <option name="LAST_COMMIT_MESSAGE" value="24/11/2022 Started learning Scala." />
+    <MESSAGE value="Completed the revision of basics of scala." />
+    <MESSAGE value="Learned how to create and import packages." />
+    <option name="LAST_COMMIT_MESSAGE" value="Learned how to create and import packages." />
   </component>
 </project>

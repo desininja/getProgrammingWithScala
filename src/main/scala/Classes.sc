@@ -4,7 +4,7 @@ class Robot(val name:String="Unknown"){
   }
 }
 
-val tom = new Robot("Tom")
+val tom = new Robot("Tom") //KK
 val john = new Robot("John")
 val noName = new Robot
 
