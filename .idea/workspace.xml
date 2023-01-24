@@ -4,59 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="525fe1aa-d8d2-4798-bfc5-9e98b311aedf" name="Changes" comment="access modifier and merging files related to 10">
-      <change beforePath="$PROJECT_DIR$/.idea/modules/getProgrammingWithScala.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/getProgrammingWithScala.iml" afterDir="false" />
+    <list default="true" id="525fe1aa-d8d2-4798-bfc5-9e98b311aedf" name="Changes" comment="learned about singleton objects.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0035a94b715581ea3683$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0035a94b715581ea3683.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$0035a94b715581ea3683.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$402b3f8785acc15b8e7e$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$402b3f8785acc15b8e7e.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$402b3f8785acc15b8e7e.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$70c9e79468c663c17651$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$70c9e79468c663c17651.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$70c9e79468c663c17651.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$90daa3a9fb6e74fcc795$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$90daa3a9fb6e74fcc795.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$90daa3a9fb6e74fcc795.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b10427a005989f5af9c5$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b10427a005989f5af9c5.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b10427a005989f5af9c5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$fbc191b452df9c6c527d$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$fbc191b452df9c6c527d.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$fbc191b452df9c6c527d.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/9.1.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/Classes.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/Person$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/VM.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/Vending Machine 0.1.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/VendingMachine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/access modifiers.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/functions.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/if-else.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/loops.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/marking an exam.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/my/areas/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/my/areas/Square.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/my/example/io/MyExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/oddOrEven.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/person.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/practice2.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/practiceFile.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/readFileIntoString.sc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/teacher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/scala-2.13/classes/text.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/csrLogger/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/csrLogger/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/updateClassifiers/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/_global/streams/export" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,8 +43,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Scala Worksheet" />
         <option value="Package Object" />
+        <option value="Scala Worksheet" />
       </list>
     </option>
   </component>
@@ -122,6 +71,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "/home/himanshu/Downloads/getProgrammingWithScala/src/main/scala",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "configurable.group.tools"
   }
 }]]></component>
@@ -281,7 +233,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674372675459</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="learned about singleton objects.">
+      <created>1674447692026</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1674447692026</updated>
+    </task>
+    <task id="LOCAL-00013" summary="learned about singleton objects.">
+      <created>1674447700381</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1674447700381</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -301,6 +267,7 @@
     <MESSAGE value="Learned how to create and import packages." />
     <MESSAGE value="access modifier" />
     <MESSAGE value="access modifier and merging files related to 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="access modifier and merging files related to 10" />
+    <MESSAGE value="learned about singleton objects." />
+    <option name="LAST_COMMIT_MESSAGE" value="learned about singleton objects." />
   </component>
 </project>
